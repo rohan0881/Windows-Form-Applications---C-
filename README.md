@@ -1,1 +1,2 @@
-# Windows-Form-Applications---C-
+# Windows-Form-Applications---C-\
+A C# Project which is completely based on designing Windows Web Application with the help of Form Designing. Forms is a UI framework for building Windows desktop apps. It provides one of the most productive ways to create desktop apps based on the visual designer provided in Visual Studio. The major functionalities involved are drag-and-drop placement of visual controls makes it easy to build desktop apps.
